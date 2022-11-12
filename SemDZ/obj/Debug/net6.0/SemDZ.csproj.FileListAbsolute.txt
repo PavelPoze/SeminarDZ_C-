@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\bin\Debug\net6.0\SemDZ.exe
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\bin\Debug\net6.0\SemDZ.deps.json
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\bin\Debug\net6.0\SemDZ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\bin\Debug\net6.0\SemDZ.dll
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\bin\Debug\net6.0\SemDZ.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.dll
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\refint\SemDZ.dll
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\SemDZ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\For_VSCode\SeminarDZ_C-\SemDZ\obj\Debug\net6.0\ref\SemDZ.dll
