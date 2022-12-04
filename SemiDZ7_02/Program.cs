@@ -9,9 +9,9 @@
 17 -> такого числа в массиве нет
 */
 
-int m = ReadInt("Введите число строк: ");     //зарашиваем количество срок (rows)
+int m = ReadInt("Введите число строк: ");     
 int n = ReadInt("Введите число стоблбцов: ");
-int[,] number = new int[4,4];   // создаем двумерный массив исходя из введенных данных
+int[,] number = new int[m,n];   // создаем двумерный массив исходя из введенных данных
 FillMatrix(number);
 WriteMatrix(number);
 if (m < number.GetLength(0) && n < number.GetLength(1))
@@ -29,7 +29,7 @@ void FillMatrix(int[,] array)     //заполнение двумерного м
     {
         for (int j = 0; j < array.GetLength(1); j++)   // цикл для заполнения стодбцов
         {
-            array[i, j] = new Random().Next(1, 10);
+            array[i, j] = new Random().Next(1, 100);
         }
     }
 }
