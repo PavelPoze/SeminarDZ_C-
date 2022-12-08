@@ -25,4 +25,19 @@ int number = ReadInt("Введите число: ");
     return Convert.ToInt32(Console.ReadLine());
  }
 
- 
+ int number = 12321;
+
+int first = number / 10000;
+int second = number / 1000 % 10;
+int third = number / 100 % 10;
+int four = number / 10 % 10;
+int fifth = number % 10;
+
+if(first == fifth && second == four)
+{
+Console.WriteLine("Да");
+}
+else
+{
+Console.WriteLine("Нет");
+}

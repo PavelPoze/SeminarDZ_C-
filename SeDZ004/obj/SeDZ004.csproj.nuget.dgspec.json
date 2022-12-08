@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj": {}
+    "C:\\Users\\Professional\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj": {
+    "C:\\Users\\Professional\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj",
         "projectName": "SeDZ004",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj",
-        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\obj\\",
+        "projectPath": "C:\\Users\\Professional\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\SeDZ004.csproj",
+        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Professional\\Desktop\\For_VSCode\\SeminarDZ_C-\\SeDZ004\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

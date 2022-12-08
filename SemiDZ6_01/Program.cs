@@ -7,7 +7,7 @@
 1, -7, 567, 89, 223-> 3
 */
 
-
+/*
 Console.WriteLine ("Введите числа через запятую: ");
 string output = Console.ReadLine()!;
 string[] number = new string[output.Length]!;
@@ -46,4 +46,54 @@ void PrintArray (int [] array, string [] string1)   //метод чтения м
 Console.WriteLine();
 }
 
+*/
 
+// щт дениса созданние массивва из данных внесенных пользователем
+Console.WriteLine ("Введите числа через запятую: ");
+string input = Console.ReadLine()!;
+char splitSymbol = ',';    // вынесение символа интервала
+WriteArray(ParseArray(input, splitSymbol));
+
+int[] ParseArray( string inputNumber, char split)   // этот массив возвращает строку и разделитель
+{
+  int numberCount = 1;
+  for (int i = 0; i < input.Length; i++)
+  {
+    if (inputNumber[i] == split)
+    numberCount++;                    //
+  }
+  int[] number = new int[numberCount];
+  int numberIndex = 0;           // 
+  string subString = "";   //переменная будет если нет запятой, т.е. цифра
+  for (int i =0; i < inputNumber.Length; i++)   // цикл прохода по массиву на поиск запятой
+  {
+    if (inputNumber[i] == split)
+    {
+      number[numberIndex++] = Convert.ToInt32(subString);   // конвертация 
+      subString = "";
+    }
+    else        // если не равна запятой
+    {
+      subString += inputNumber[i];
+    }
+  }
+  number[numberIndex] = Convert.ToInt32(subString);
+  return number;
+}
+
+void FillArrayRandomNumbers(int[] array)            // метод 
+{
+for(int i = 0; i < array.Length; i++)
+{
+array[i] = new Random().Next(1, 10);
+}
+}
+
+void WriteArray(int[] array)
+{
+for(int i = 0; i < array.Length; i++)
+{
+Console.Write(array[i] + " ");
+}
+Console.WriteLine();
+}

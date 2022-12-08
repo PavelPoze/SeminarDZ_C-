@@ -19,3 +19,23 @@ else
     Console.WriteLine(str[2]);
    
 }
+
+
+/*
+int number = 45879778;
+int searchDigit = 3;
+int count = 0;
+int temp = number;
+while(temp > 0)
+{
+temp /= 10;
+count++;
+}
+
+while(count > searchDigit)
+{
+number /= 10;
+count--;
+}
+
+Console.WriteLine(number%10);*/
